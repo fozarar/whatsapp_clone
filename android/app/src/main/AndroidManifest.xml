@@ -38,6 +38,6 @@
             android:name="flutterEmbedding"
             android:value="2" />
     </application>
-<manifest xmlns:android="...">
-  <uses-permission android:name="android.permission.INTERNET"/> <!-- Add this for internet connection in real device -->
+
+  <uses-permission android:name="android.permission.INTERNET"/> <!-- Add this for real device internet connection -->
 </manifest>
