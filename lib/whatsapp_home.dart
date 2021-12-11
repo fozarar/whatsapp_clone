@@ -34,7 +34,10 @@ class _WhatsAppHomeState extends State<WhatsAppHome>
           ],
         ),
       ),
-      body: Container(),
+      body: TabBarView(
+        controller: _tabController,
+        children: <Widget>[],
+      ),
     );
   }
 }
