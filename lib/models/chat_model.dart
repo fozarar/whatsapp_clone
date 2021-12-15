@@ -15,27 +15,27 @@ class ChatModel {
 
 List<ChatModel> dummyData = [
   ChatModel(
-      name: 'Furkan Ozarar',
+      name: 'Leonardo da Vinci',
       message: 'How are you doing ?',
       time: '15:30',
       avatarUrl:
-          'https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ben_Affleck_by_Gage_Skidmore_3.jpg/640px-Ben_Affleck_by_Gage_Skidmore_3.jpg'),
+          'https://i4.hurimg.com/i/hurriyet/75/750x422/612eda5f4e3fe00c40fa733d.jpg'),
   ChatModel(
-      name: 'Ben Affleck',
-      message: 'I am Batman ?',
+      name: 'Donatello',
+      message: 'Dinner 8 pm?',
       time: '17:30',
       avatarUrl:
-          'https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ben_Affleck_by_Gage_Skidmore_3.jpg/640px-Ben_Affleck_by_Gage_Skidmore_3.jpg'),
+          'https://www.biyografi.net.tr/wp-content/uploads/2015/08/donatello-kimdir.jpg'),
   ChatModel(
-      name: 'Mike Ross',
+      name: 'Raphael',
       message: 'Wassap ?',
       time: '05:00',
       avatarUrl:
-          'https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ben_Affleck_by_Gage_Skidmore_3.jpg/640px-Ben_Affleck_by_Gage_Skidmore_3.jpg'),
+          'https://www.biography.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTE5NTU2MzE1OTY2NDQwOTcx/raphael-41051-1-402.jpg'),
   ChatModel(
-      name: 'Harvey Specter',
+      name: 'Michelangelo',
       message: 'I am the best coder in the world',
       time: '22:15',
       avatarUrl:
-          'https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ben_Affleck_by_Gage_Skidmore_3.jpg/640px-Ben_Affleck_by_Gage_Skidmore_3.jpg'),
+          'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg/220px-Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg'),
 ];
